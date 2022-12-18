@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T14:38:18.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" version="20.7.3" etag="hONwRf0MAc8qkg2D2dqQ" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-18T14:54:56.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" version="20.7.3" etag="X5ZbFBjqzO4SIKGYaN92" type="github">
   <diagram id="hfbx4FAuPTc2XYdE2caD" name="quantifiers">
-    <mxGraphModel dx="1127" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1352" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,6 +40,9 @@
         <mxCell id="7bNjZtq646_DLC3A_XWr-5" value="&lt;b&gt;Much&lt;br&gt;Many&lt;br&gt;a lot of&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7bNjZtq646_DLC3A_XWr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="7bNjZtq646_DLC3A_XWr-6" target="7bNjZtq646_DLC3A_XWr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7bNjZtq646_DLC3A_XWr-6" value="&lt;b&gt;little + UCs&amp;nbsp;&lt;br&gt;very little + UCs&lt;br&gt;few + PCs&lt;br&gt;very few + PCs&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="200" y="370" width="120" height="80" as="geometry" />
         </mxCell>
@@ -52,11 +55,17 @@
         <mxCell id="7bNjZtq646_DLC3A_XWr-13" value="&lt;h1&gt;Not many or not much/ Neg;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;e.g. I have &lt;i&gt;few friends&lt;/i&gt; and we meet quite often.&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;He spoke &lt;i&gt;little English&lt;/i&gt;, so it was difficult to communicate&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;with him.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Dany doesn&#39;t care for school. He has &lt;i&gt;little interest&lt;/i&gt; in it.&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="400" y="350" width="440" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="7bNjZtq646_DLC3A_XWr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="7bNjZtq646_DLC3A_XWr-14" target="7bNjZtq646_DLC3A_XWr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7bNjZtq646_DLC3A_XWr-14" value="&lt;b&gt;a little + UCs&lt;br&gt;a few + PCs&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="200" y="565" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7bNjZtq646_DLC3A_XWr-15" value="&lt;h1&gt;Small amount or quantity/ Po;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;e.g. I have &lt;i&gt;a few (some) friends&lt;/i&gt; and we meet quite often.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;He spoke &lt;i&gt;a little English&lt;/i&gt;, so we were able to communicate&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;with him.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;May I please have &lt;i&gt;a little more coffee&lt;/i&gt;?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;He smiled just &lt;i&gt;a little (adv)&lt;/i&gt;.&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="400" y="520" width="440" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7bNjZtq646_DLC3A_XWr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="7bNjZtq646_DLC3A_XWr-18" target="7bNjZtq646_DLC3A_XWr-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7bNjZtq646_DLC3A_XWr-18" value="&lt;b&gt;any (-)&lt;br&gt;no (+)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="200" y="730" width="120" height="60" as="geometry" />
@@ -67,6 +76,9 @@
         <mxCell id="7bNjZtq646_DLC3A_XWr-22" value="&lt;b&gt;More than you need or want&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="840" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7bNjZtq646_DLC3A_XWr-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="7bNjZtq646_DLC3A_XWr-23" target="7bNjZtq646_DLC3A_XWr-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7bNjZtq646_DLC3A_XWr-23" value="&lt;b&gt;too + adj&lt;br&gt;too much + UCs&lt;br&gt;too many + PCs&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="200" y="850" width="120" height="60" as="geometry" />
         </mxCell>
@@ -75,6 +87,9 @@
         </mxCell>
         <mxCell id="7bNjZtq646_DLC3A_XWr-25" value="&lt;b&gt;less than you&lt;br&gt;need&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7bNjZtq646_DLC3A_XWr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="7bNjZtq646_DLC3A_XWr-26" target="7bNjZtq646_DLC3A_XWr-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7bNjZtq646_DLC3A_XWr-26" value="&lt;b&gt;enough (before noun)&lt;br&gt;enough (after adj)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="200" y="970" width="160" height="60" as="geometry" />
